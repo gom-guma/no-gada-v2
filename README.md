@@ -94,7 +94,7 @@ no-gada-v2/
 
 ## 📎 링크
 
-- 🔗 배포 주소: [https://nogada.vercel.app](https://nogada.vercel.app)
+- 🔗 배포 주소: 배포 종료
 - 🛠 GitHub: [https://github.com/yeinn/no-gada-v2](https://github.com/yeinn/no-gada-v2)
 
 ---
